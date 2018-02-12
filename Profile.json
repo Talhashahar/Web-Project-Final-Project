@@ -1,0 +1,16 @@
+{
+	"profiles":[{
+		"profile_name" : "Max 400 Calories",
+		"Calories" : 400
+	},
+	{
+		"profile_name" : "Max 600 Calories",
+		"Calories" : 600
+	},
+	{
+		"profile_name" : "Mass Builder ",
+		"protein" : 30,
+		"Calories" : 600
+	}
+	]
+}
