@@ -22,7 +22,7 @@
         <nav class="nav" id="navigation">
             <ul>
                 <li>
-                    <a id="selected" href="buildShake.php">Build Shake</a>
+                    <a href="buildShake.php">Build Shake</a>
                 </li>
                 <li>
                     <a href="#">History</a>
@@ -31,19 +31,15 @@
                     <a href="#">Favorite</a>
                 </li>
                 <li>
-                    <a href="#">Recipes</a>
+                    <a id="selected" href="#">Recipes</a>
                 </li>
                 <li>
-                    <a href="#">Supplay</a>
+                    <a href="#">Supply</a>
                 </li>
             </ul>
         </nav>
     </header>
     <div id="topline">
-        <label class="container" id="filter">Available
-            <input type="checkbox" checked="checked">
-            <span class="checkmark"></span>
-        </label>
         <div id="filter">
         </div>
 

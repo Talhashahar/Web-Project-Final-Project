@@ -34,7 +34,7 @@
                     <a href="Recipes.php">Recipes</a>
                 </li>
                 <li>
-                    <a href="#">Supplay</a>
+                    <a href="#">Supply</a>
                 </li>
             </ul>
         </nav>
